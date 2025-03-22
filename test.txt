@@ -1,0 +1,53 @@
+(output of "clear; clang filesearch.c && ( ./a.out green.txt gshort.txt glong.txt ; ./a.out alphabet.txt ashort.txt along.txt ; cat gshort.txt ; cat glong.txt ; cat ashort.txt ; cat along.txt )")
+Wrote 13 lines into gshort.txt.
+Wrote 11 lines into glong.txt.
+Wrote 19 lines into ashort.txt.
+Wrote 7 lines into along.txt.
+WOULD YOU EAT THEM
+IN A BOX?
+WOULD YOU EAT THEM
+WITH A FOX?
+
+NOT IN A BOX. 
+NOT WITH A FOX.
+NOT IN A HOUSE.
+NOT WITH A MOUSE.
+HERE OR THERE.
+
+
+
+i would not eat them
+i would not eat them anywhere.
+i would not eat green eggs and ham.
+i do not like them, sam-i-am.
+would you? could you? in a car?
+eat them! eat them! here they are.
+i would not, could not, in a car.
+you may like them. you will see. 
+you may like them in a tree!
+i would not, could not in a tree.
+not in a car! you let me be.HIJKLMNOPQRSTUVWXYZ
+IJKLMNOPQRSTUVWXYZ
+JKLMNOPQRSTUVWXYZ
+KLMNOPQRSTUVWXYZ
+LMNOPQRSTUVWXYZ
+MNOPQRSTUVWXYZ
+NOPQRSTUVWXYZ
+OPQRSTUVWXYZ
+PQRSTUVWXYZ
+QRSTUVWXYZ
+RSTUVWXYZ
+STUVWXYZ
+TUVWXYZ
+UVWXYZ
+VWXYZ
+WXYZ
+XYZ
+YZ
+Zabcdefghijklmnopqrstuvwxyz
+bcdefghijklmnopqrstuvwxyz
+cdefghijklmnopqrstuvwxyz
+defghijklmnopqrstuvwxyz
+efghijklmnopqrstuvwxyz
+fghijklmnopqrstuvwxyz
+ghijklmnopqrstuvwxyz
